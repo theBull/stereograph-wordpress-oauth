@@ -1,0 +1,12 @@
+{
+	"app": "zarmada-website",
+	"owner": "danny@zarmada.net",
+	"CLIENT_ID": "1257b854-705c-405f-8955-1149330eb4f0",
+	"secret": "y9c4wjptFtMVLped8VmPwjg",
+	"redirectUris": [
+		"https://www.zarmada.com/auth/microsoft-oauth2callback.php",
+		"https://zarmada.com/auth/microsoft-oauth2callback.php",
+		"https://website.zarmada.com/auth/microsoft-oauth2callback.php"
+	],
+	"authEndpoint": ""
+}
